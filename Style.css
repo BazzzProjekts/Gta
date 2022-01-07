@@ -1,0 +1,39 @@
+#a123 {
+  color:#920894;
+  z-index: 100;
+}
+
+body {
+  background-repeat: no-repeat;
+  background:url(fon.jpg) 40% 40% no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+#a123 {
+  color:#920894;
+  z-index: 100;
+}
+#GTA5 {
+  width: 100%;
+  background: black;
+
+  position: relative;
+  height: 50px
+  text-align: center;
+  Width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.content {
+  background-color: rgba(112,62,213,0.20);
+  width: 700px;
+  position: relative;
+}
+#rockstar{
+  right: 50px;
+  position: absolute;
+
+
+}
